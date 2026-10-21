@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingStyleDef ParentName="IdeoTableStyleBase">
+		<defName>FernyRapture_RRPalermoBasin</defName>
+		<graphicData>
+			<texPath>Furnitures/Hygiene/RRBasinone</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(2,2)</drawSize>
+		</graphicData>
+	</ThingStyleDef>
+
+	<VEF.Buildings.HiddenDesignatorsDef>
+		<defName>FernyRaptureDBH_HiddenDesignators</defName>
+		<hiddenDesignators>
+			<li>RRVeneziaBasin</li>
+			<li>RRPalermoBasin</li>
+		</hiddenDesignators>
+	</VEF.Buildings.HiddenDesignatorsDef>
+</Defs>

@@ -13,6 +13,7 @@
     <li IfModActive="Misstall.Furniture">1.6/Mods and Shit/Misstall Furniture</li>
     <li IfModActive="Resurrectionem.FurnitureAsia">1.6/Mods and Shit/RR Furniture Longyun</li>
     <li IfModActive="Resurrectionem.Furniture">1.6/Mods and Shit/RR Furniture Rapture</li>
+    <li IfModActiveAll="Resurrectionem.Furniture,Dubwise.DubsBadHygiene">1.6/Mods and Shit/RR Furniture Rapture + Dubs Bad Hygiene</li>
     <li IfModActive="Misstall.AR.IdeologyStyle">1.6/Mods and Shit/Aliaile Race Furniture</li>
     <li IfModActive="TW.NRH.Furniture">1.6/Mods and Shit/Neo-Retro Haus Furniture</li>
     <li IfModActive="ponpeco.PFSF">1.6/Mods and Shit/Ponpeco Sci-Fi</li>
